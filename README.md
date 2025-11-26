@@ -1,3 +1,13 @@
+We are currently looking at visual patterns in the LLM matrices.
+
+We are interested in those matrices which are formed during training, and in those matrices which are dynamically computed during inference.
+
+It turns out that there are visually discernible patterns, see, for example, [model_sample_imshow_for_comments_11_14_25.ipynb](model_sample_imshow_for_comments_11_14_25.ipynb).
+
+***
+***
+***
+
 Это мы добавили в GPT-2 (7 этапов, которые мы сделади вместе с ChatGPT https://chatgpt.com/share/68223191-8f08-8000-a896-306ad9baf7aa) распарралеливание . Парралельные блоки attention + MLP
 
 
